@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fmt"
-	"github.com/pebbe/zmq4"
+	"fmt",
+	"github.com/nats-io/nats.go"
 )
 
 
